@@ -66,4 +66,4 @@ Description: Registers a new user.
 
 ### Deployment
 
-The landing page is deployed and can be accessed live at Live URL.
+The landing page is deployed and can be accessed live at Live URL -> https://referal-landing-page.netlify.app/ .
