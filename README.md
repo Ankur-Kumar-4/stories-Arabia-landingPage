@@ -59,10 +59,6 @@ Description: Registers a new user.
    Method: POST
    Description: Handles the referral process. Takes the friend's name and Gmail address and sends a referral email.
 
-3. Testimonials API
-   Endpoint: /api/testimonials
-   Method: GET
-   Description: Fetches user testimonials and returns them to be rendered in card format.
 
 ### Deployment
 
